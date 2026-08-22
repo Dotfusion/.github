@@ -61,15 +61,6 @@ It holds how we write code, test it, ship it, secure it, make it accessible, and
 
 We publish it for three reasons. A client or partner can see the bar before working with us. A developer joining the team reads one handbook rather than absorbing conventions by osmosis. And a standard that is being read cannot quietly rot.
 
-The same repository doubles as a **Claude Code plugin marketplace**. Our standards ship to every developer's editor as skills, so they are applied while code is being written rather than looked up afterward:
-
-```text
-/plugin marketplace add Dotfusion/engineering-docs
-/plugin install dotfusion-docs@dotfusion
-```
-
-Take any of it. It is MIT licensed, so fork it, adapt it, or lift the parts that fit your team.
-
 ## Where we are
 
 **Toronto · Montreal · Marseille · Phnom Penh**
