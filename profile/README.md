@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://cdn-ca.aglty.io/dotfusion2025/site-2025/dotfusion-logo.svg" alt="Dotfusion" width="340">
+<p><img src="https://cdn-ca.aglty.io/dotfusion2025/site-2025/dotfusion-logo.svg" alt="Dotfusion" width="340"></p>
 
-<img src="assets/banner.png" alt="Headless websites that get found, by search engines and AI. Toronto, Montreal, Marseille, Phnom Penh." width="100%">
+<p><img src="assets/banner.png" alt="Headless websites that get found, by search engines and AI. Toronto, Montreal, Marseille, Phnom Penh." width="100%"></p>
 
 **[dotfusion.com](https://www.dotfusion.com)** &nbsp;·&nbsp; [Our work](https://www.dotfusion.com/our-work) &nbsp;·&nbsp; [Services](https://www.dotfusion.com/services) &nbsp;·&nbsp; [Industries](https://www.dotfusion.com/industries) &nbsp;·&nbsp; [Blog](https://www.dotfusion.com/blogs) &nbsp;·&nbsp; [Podcast](https://www.dotfusion.com/podcasts) &nbsp;·&nbsp; [Contact](https://www.dotfusion.com/contact-us)
 
