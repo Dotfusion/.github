@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-label="Headless websites that get found, by search engines and AI. Toronto, Montreal, Marseille, Phnom Penh.">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="130" x2="1280" y2="130" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2B1A57"/>
+      <stop offset="0.30" stop-color="#35206C"/>
+      <stop offset="0.62" stop-color="#5B2A70"/>
+      <stop offset="0.88" stop-color="#B03A62"/>
+      <stop offset="1" stop-color="#D64062"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="1080" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F16D23" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F16D23" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="80" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBC30F"/>
+      <stop offset="0.55" stop-color="#F16D23"/>
+      <stop offset="1" stop-color="#74CCD6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="260" fill="url(#brand)"/>
+  <rect width="1280" height="260" fill="url(#glow)"/>
+
+  <g opacity="0.09" fill="none" stroke="#F7F6F1" stroke-width="1.5">
+    <circle cx="1146" cy="60" r="152"/>
+    <circle cx="1146" cy="60" r="108"/>
+    <circle cx="1146" cy="60" r="64"/>
+  </g>
+
+  <rect x="80" y="62" width="104" height="4" rx="2" fill="url(#hair)"/>
+
+  <text x="80" y="130" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="600" fill="#F7F6F1" letter-spacing="-0.7">Headless websites that get found,</text>
+  <text x="80" y="180" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="600" fill="#F7F6F1" letter-spacing="-0.7">by search engines and AI.</text>
+
+  <text x="80" y="224" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#F7F6F1" fill-opacity="0.70" letter-spacing="3.2">TORONTO &#183; MONTREAL &#183; MARSEILLE &#183; PHNOM PENH</text>
+</svg>
